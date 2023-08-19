@@ -2,6 +2,7 @@
 
 I'm excited that you've discovered my GitHub profile. Feel free to dive into the realm of JavaScript, where you'll find a collection of projects and content related to JavaScript. Your exploration is greatly appreciated!
 
+You can also view my personal page [here](https://github.com/adoublef)
 
 ## Contact
 
